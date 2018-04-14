@@ -2,6 +2,7 @@
   "name": "jpallath.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://jpallath.github.io/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.1",
